@@ -1,0 +1,37 @@
+
+.subtitulo {
+    text-align: center;
+}
+
+.tituloHistoria {
+    font-size: 30px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100%;
+    margin: 1px;
+    padding: 5px;
+
+}
+
+.imagen {
+    width: 200px;
+    height: auto;
+    padding: 5px;
+    float: right;
+}
+
+.imagen2 {
+    width:200px;
+    height: auto;
+    padding: 5px;
+    float: left;
+}
+
+p {
+    font-size: 20px;
+    text-justify: distribute-all-lines;
+}
